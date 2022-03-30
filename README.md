@@ -1,4 +1,4 @@
-# Raspberry Pi0W with adafruit rgb display st7789 (2 tactile buttons (programmed))
+# Raspberry Pi0W with adafruit mini pitft (MiniPiTFT or MPiTFT) rgb display st7789 (2 tactile buttons (programmed))
 
 Install raspbian lite (Bullseye -latest as of this creation) to sd media with raspberry pi imager.
 
